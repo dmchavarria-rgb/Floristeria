@@ -52,6 +52,6 @@ FloristeriaEventos/
 ## 📸 Evidencias
 Incluye capturas de pantalla en diferentes resoluciones:
 - Vista escritorio 💻
-- img1.png
+img1.png
 
 ---
