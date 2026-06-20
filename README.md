@@ -19,9 +19,9 @@ FloristeriaEventos/
 ├── css/
 │   └── geneal.css
 ├── img/
-│   │   ├── flores.jpg
-│   │   ├── img.jpg
-│   │   └── eventos sociales
+│    ├── flores.jpg
+│    ├── img.jpg
+│    └── eventos sociales
 └── README.md
 
 
