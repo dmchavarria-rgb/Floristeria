@@ -17,12 +17,13 @@ FloristeriaEventos/
 │
 ├── index.html
 ├── css/
-│   └── estilos.css
+│   └── geneal.css
 ├── img/
 │   │   ├── flores.jpg
-│   │   ├── img2.jpg
-│   │   └── eventos-sociales
+│   │   ├── img.jpg
+│   │   └── eventos sociales
 └── README.md
+
 
 ---
 
