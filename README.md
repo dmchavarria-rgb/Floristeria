@@ -14,10 +14,11 @@ El sitio muestra arreglos florales y servicios de decoración de eventos, con se
 ---
 
 ## 📸 Evidencias
-
+img1.png
 
 ---
-##Estructura
+## 📂 Estructura
+
 FloristeriaEventos/
 │
 ├── index.html
