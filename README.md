@@ -10,8 +10,6 @@ El proyecto integra **HTML semántico**, **CSS externo**, **Mobile First**, **Fl
 - Aplicar principios de diseño **mobile-first**.
 - Utilizar **Flexbox** y **Grid** para la organización del contenido.
 - Integrar componentes básicos de **Bootstrap** para mejorar la experiencia de usuario.
-- Documentar el proyecto con evidencias y estructura clara en GitHub.
-
 ---
 
 ## 📂 Estructura del Proyecto
@@ -41,8 +39,6 @@ FloristeriaEventos/
 - **Pedidos** → Formulario en línea para solicitar arreglos.  
 - **Entregas** → Información sobre envíos y cobertura.  
 
-Cada sección está contenida en **cuadros elegantes** con bordes redondeados, sombras suaves y efectos hover.
-
 ---
 
 ## ⚙️ Tecnologías Utilizadas
@@ -56,6 +52,6 @@ Cada sección está contenida en **cuadros elegantes** con bordes redondeados, s
 ## 📸 Evidencias
 Incluye capturas de pantalla en diferentes resoluciones:
 - Vista escritorio 💻
-img1.png
+- img1.png
 
 ---
